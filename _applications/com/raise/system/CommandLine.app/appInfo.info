@@ -1,0 +1,9 @@
+{
+    "Name": "CommandLine",
+    "Author": ["RaiseSystem .inc"],
+    "Class": "com.raise.system.CommandLine",
+    "From": "",
+    "Runtime": "",
+    "Description": "Simple command reading and simple command operation",
+    "DefalutSigns": ["Application.API.use", "Keyboard.input"]
+}

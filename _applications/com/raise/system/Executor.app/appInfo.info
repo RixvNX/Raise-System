@@ -1,0 +1,8 @@
+{
+    "Name": "Kernel",
+    "Author": "RaiseSystem .inc",
+    "Class": "com.raise.system.Kernel",
+    "From": "",
+    "Runtime": "",
+    "Description": "It is used for task scheduling and task processing in the whole Raise system."
+}
