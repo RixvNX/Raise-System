@@ -5,5 +5,5 @@
     "From": "",
     "Runtime": "",
     "Description": "Simple command reading and simple command operation",
-    "DefalutSigns": ["Application.API.use", "Keyboard.input"]
+    "DefalutSigns": ["Application.API.use", "Application.API.make", "Keyboard.input"]
 }
