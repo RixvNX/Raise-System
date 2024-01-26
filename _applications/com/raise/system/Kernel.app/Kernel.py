@@ -1,4 +1,4 @@
-from bin import Thread
+from bin import Threading
 
-a = Thread.Thraed(1894703, "Test", 2)
+a = Threading.Thread(1894703, "Test", 2)
 print(a)
