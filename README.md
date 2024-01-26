@@ -80,13 +80,13 @@ Signer : com.raise.system.Signer
 其中对appInfo.info文件的要求是极其严格的,下面是一个实例:
 ```json
 {
-    "Name": String:"APPName",
-    "Author": StringArray:["Author"],
-    "Class": String:"com.test.raiseapp.testAPP",
-    "From": String:"",
-    "Runtime": String:"",
-    "Description": String:"It is used for task scheduling and task processing in the whole Raise system.",
-    "DefalutSigns": StringArray:["a.sign", "b.sign", "c.sign"]
+    "Name": "APPName",
+    "Author": ["Author"],
+    "Class": "com.test.raiseapp.testAPP",
+    "From": "",
+    "Runtime": "",
+    "Description": "It is used for task scheduling and task processing in the whole Raise system.",
+    "DefalutSigns": ["a.sign", "b.sign", "c.sign"]
 }
 ```
 当要求全部符合时,安装器将开始安装软件包.
