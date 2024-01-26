@@ -1,1 +1,3 @@
-from bin import Out
+from bin import Thread
+
+a = Thread.Thraed()
