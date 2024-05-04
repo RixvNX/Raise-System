@@ -1,9 +1,0 @@
-{
-    "Name": "Logger",
-    "Author": ["RaiseSystem .inc"],
-    "Class": "com.raise.system.Logger",
-    "From": "",
-    "Runtime": "",
-    "Description": "Record most of the events and warnings, errors, etc., when the system is running, for analyzing system bugs and improving the system"
-    "DefalutSigns": ["Application.API.use", "Application.API.make", "File.Input", "File.Output"]
-}
